@@ -49,6 +49,5 @@ async def plantas(ctx):
 @bot.command()
 async def reducir(ctx):
     await ctx.send("Para reducir residuos: evitá productos descartables, comprá a granel, reutilizá envases y elegí materiales duraderos.")
-
-token = "MTQzODk0Mjc2MTM5ODMwODg5NA.GxqdQt.0Z0QK4JWSm3lnW8RpLPoP5JaVAnNsiE1_-QmWc"
+token=
 bot.run(token)
